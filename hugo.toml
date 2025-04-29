@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Gautam Singh'
 theme = 'hugo-texify2'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [[menu.main]]
 identifier = "post"
 name = "Posts"
