@@ -1,0 +1,41 @@
+baaseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Gautam Singh'
+theme = 'hugo-texify2'
+
+[[menu.main]]
+identifier = "post"
+name = "Posts"
+url = "/"
+weight = 1
+[[menu.main]]
+identifier = "archives"
+name = "Archive"
+url = "/post/"
+weight = 2
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
+
+[taxonomies]
+tags = "tags"
+
+[params]
+title="Gautam Singh"
+description = "TeXify2 - a minimal, latex-style hugo theme for personal blogging"
+images = ['images/logo.jpg']
+footnote = "Gautam Singh ~ Indian Institute of Science, Education and Research, Kolkata"
+customCSS = []
+customJS = []
+dateFormat = "January 2, 2006"
+emphasisWithDots = true
+since = "2022"
+toc = false
+showWordCount = true
+showReadingTime = true
+rootFontSize = "100%"
+math = true
+enableDuckDuckGoSearchBox = false
+numberedSubtitles = false

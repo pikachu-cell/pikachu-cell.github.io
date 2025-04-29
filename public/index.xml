@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gautam Singh</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Gautam Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Apr 2025 21:13:27 +0530</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Limit Point Compactness</title>
+      <link>//localhost:1313/post/limitpointcompactness/</link>
+      <pubDate>Tue, 29 Apr 2025 20:05:18 +0530</pubDate>
+      
+      <guid>//localhost:1313/post/limitpointcompactness/</guid>
+      <description>&lt;h1 id=&#34;limit-point-compactness&#34;&gt;Limit Point Compactness&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Definition&lt;/em&gt;: A space (X) is called limit point compact if every infinite subset if $X$ has a limit point.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Definition&lt;/em&gt;: A point $x$ of a subset $S$ of a topological space $X$ is isolated if there exists a neighbourhood of $x$ that does equivalently an element of $S$ is an isolated point&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Theorem&lt;/strong&gt;: Compactness implies limit point compactness.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Definition&lt;/em&gt;: Let \(X\) be a topological space. If \(\{\mathbb{N}\}\) be a sequence of points in $X$ and $n_{1} &amp;lt; n_{2} &amp;lt; \dots &amp;lt; \cdots$ be an increasing sequence of positive integers, then the sequence $\left{ y_{i} \right}$ defined as $y_{i} = x_{n_{i}}$ is called a subsequence of the sequence $\left{ x_{n} \right}$. The space $X$ is said to be sequentially compact if every sequence of points of $X$ has a convergent subsequence.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
