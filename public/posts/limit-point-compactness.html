@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css" integrity="sha384-5TcZemv2l/9On385z///+d7MSYlvIEw9FuZTIdZ14vJLqWphw7e7ZPuOiCHJcFCP" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js" integrity="sha384-cMkvdD8LoxVzGF/RPUKAcvmm49FQ0oxwDF3BGKtDXcEc+T1b2N+teh/OJfpU0jr6" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/contrib/auto-render.min.js" integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh" crossorigin="anonymous"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          // customised options
+          // • auto-render specific keys, e.g.:
+          delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\[', right: '\\]', display: true}
+          ],
+          // • rendering keys, e.g.:
+          throwOnError : false
+        });
+    });
+</script>
+    
+    <title>Limit Point Compactness</title>
+    <link href="../static/style.css" rel="stylesheet">
+    <link href="../static/styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <nav class="main-menu">
+        <button onclick="window.location.href='../index.html'">Home</button>
+        <button onclick="window.location.href='../books.html'">Curated</button>
+        <button onclick="window.location.href='../posts.html'">Posts</button>
+        <button onclick="window.location.href='../rss.xml'">RSS</button>
+      </nav>
+    </header>
+    <main>
+      <h1>Limit Point Compactness</h1>
+<p><em>Definition</em>: A space $X$ is called limit point compact if every infinite subset if $X$ has a limit point.</p>
+<p><em>Definition</em>: A point $x$ of a subset $S$ of a topological space $X$ is isolated if there exists a neighbourhood of $x$ that does equivalently an element of $S$ is an isolated point</p>
+<p><strong>Theorem</strong>: Compactness implies limit point compactness.</p>
+<p><em>Definition</em>: Let $X$ be a topological space. If $\mathbb{N}$ be a sequence of points in $X$ and $n_{1} &lt; n_{2} &lt; \dots &lt; \cdots$ be an increasing sequence of positive integers, then the sequence $\lbrace y_{i} \rbrace$ defined as $y_{i} = x_{n_{i}}$ is called a subsequence of the sequence $\lbrace x_{n} \rbrace$. The space $X$ is said to be sequentially compact if every sequence of points of $X$ has a convergent subsequence.</p>
+<p><strong>Theorem</strong>: If $X$ be a metric space. Then the following are equivalent:</p>
+<ol>
+<li>$X$ is compact</li>
+<li>$X$ is limit point compact</li>
+<li>$X$ is sequentially compact</li>
+</ol>
+<p><em>Proof</em>:</p>
+<p>$$
+A = \bigg\lbrace \sum \bigg\rbrace
+$$</p>
+    </main>
+    <footer>
+      <p>© 2025 Gautam Singh</p>
+    </footer>
+  </body>
+</html>
+
