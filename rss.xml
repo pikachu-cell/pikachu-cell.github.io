@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Gautam Singh</title>
+    <link>pikachu-cell.github.io</link>
+    <description>Posts on math, code, and AI</description>
+    <lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+
+    
+    <item>
+      <title>Limit Point Compactness</title>
+      <link>pikachu-cell.github.io/posts/limit-point-compactness.html</link>
+      <description><![CDATA[]]></description>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>pikachu-cell.github.io/posts/limit-point-compactness.html</guid>
+    </item>
+    
+    <item>
+      <title>Quantum Lorem Ipsum</title>
+      <link>pikachu-cell.github.io/posts/post-1.html</link>
+      <description><![CDATA[]]></description>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>pikachu-cell.github.io/posts/post-1.html</guid>
+    </item>
+    
+  </channel>
+</rss>
