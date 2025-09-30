@@ -1,11 +1,9 @@
-from io import text_encoding
 import os
 import yaml
 import shutil
 import markdown
 
 # from typing import List
-from datetime import datetime
 from jinja2 import Environment, FileSystemLoader
 
 env = Environment(loader=FileSystemLoader("templates"))
