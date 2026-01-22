@@ -1,0 +1,16 @@
+---
+date: 2025-09-16
+title: A Visual Guide To The EM Algorithm
+math: true
+draft: true
+---
+# The EM Algorithm
+
+Things to cover:
+
+1. Possible visual intuition
+2. Mathematical Theory
+3. Applications in the real world
+4. Limitations and Problems
+5. Variants (Online, variational)
+6. Modern approach and Impact in modern situations 

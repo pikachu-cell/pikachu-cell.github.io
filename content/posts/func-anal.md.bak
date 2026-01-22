@@ -1,0 +1,51 @@
+---
+date: 2025-09-16
+title: An Introduction to Hilbert and Banach Spaces
+math: true
+draft: "false"
+---
+# An Introduction to Hilbert and Banach Spaces
+
+
+## Preliminaries
+
+### Linear Spaces
+
+### Topological Spaces
+
+### Measure and Integration
+
+## Banach Spaces
+
+## Hahn-Banach Theorems
+
+## Weak and Weak* Topologies
+
+## L^p Spaces
+
+## Hilbert Spaces
+
+## Compact Operators
+
+## Spectral Theory
+
+---
+
+## References
+
+
+#TODO Delete below (this line included)
+
+Things to cover:
+
+1. Hilbert and Banach Space Theory
+2. Hahn-Banach Theorems
+3. Four Pillars of Functional Analysis
+4. Historical Notes
+	1. In quantum meachanics
+	2. In solving differential equations
+5. Spectral Theory
+6. Weak Convergence
+7. Compactness
+8. Distribution Theory
+9. Fixed Point Theorems
